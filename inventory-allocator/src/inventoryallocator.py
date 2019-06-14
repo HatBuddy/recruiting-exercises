@@ -94,12 +94,3 @@ if __name__ == '__main__':
 
 
 
-	# input1 = { "apple": 1 , "orange": 5}
-	# input2 = [{ "name": "owd", "inventory": { "apple": 5} }, { "name": "dm", "inventory": { "orange": 5 }}]
-	# import pdb;pdb.set_trace()
-	# s=InventoryAllocator()
-	# print(s.compute_shipment(input1,input2))
-	# print(s.compute_shipment(args.order, args.inventory))
-
-
-
